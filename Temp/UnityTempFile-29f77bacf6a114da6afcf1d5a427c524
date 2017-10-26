@@ -79,6 +79,7 @@
 -define:UNITY_EDITOR_LINUX
 -define:UNITY_TEAM_LICENSE
 Assets/Scripts/BallsBehaviour.cs
+Assets/Scripts/Controller.cs
 -r:/opt/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/System.Runtime.Serialization.dll
 -r:/opt/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/System.Xml.Linq.dll
 -r:/opt/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/UnityScript.dll
